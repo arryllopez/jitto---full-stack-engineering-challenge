@@ -1,4 +1,4 @@
-# Pet Image API (M250 Challenge)
+# Pet Image API (Jitto M250 Challenge)
 
 A simple API service for uploading and retrieving random pet images (cats/dogs) built with AWS serverless technologies.
 
